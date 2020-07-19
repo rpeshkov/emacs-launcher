@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"><plist version="1.0"><dict><key>CFBundlePackageType</key><string>APPL</string><key>CFBundleInfoDictionaryVersion</key><string>6.0</string>
+    <key>CFBundleName</key>                      <string>emacslauncher</string>
+    <key>CFBundleExecutable</key>                <string>emacslauncher</string>
+    <key>CFBundleIdentifier</key> <string>rpeshkov.emacslauncher</string>
+    <key>CFBundleVersion</key>            <string>1.0</string>
+    <key>CFBundleGetInfoString</key>      <string>Authored by Anmol Jagetia at Sat Jun 20 21:54:33 CEST 2020</string>
+    <key>CFBundleShortVersionString</key> <string>1.0</string>
+    <key>CFBundleIconFile</key>
+    <string>Emacs.icns</string>
+</dict></plist>

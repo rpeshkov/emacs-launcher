@@ -1,0 +1,4 @@
+#+TITLE: Emacs Launcher
+
+Emacs Client launcher that can be installed in MacOS. Spawns new client for
+Emacs and raises the frame.
